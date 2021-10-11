@@ -37,6 +37,17 @@
   font-weight: bold;
 }
 
+.log-out {
+  background: transparent;
+  display: inline;
+  margin-left: 50px;
+  color: #222;
+  font-weight: bold;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
 .profile-img {
   width: 60px;
   border-radius: 50%;
